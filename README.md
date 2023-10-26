@@ -11,21 +11,15 @@
             src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Java, React**
-<br>
+<img src="https://media.tenor.com/9UERneabKX8AAAAi/ff-logo.gif" alt="#" srcset="#">
 
 - 👨‍💻 All of my projects are available at my Portfolio :-
 [https://krahulsahu.github.io/MyPortfolio/](https://krahulsahu.github.io/MyPortfolio/)
-<br>
-
 - 📫 How to reach me **rahulkumarsahu8182@gmail.com**
-
 - ⚡ Fun fact **Honey never spoils.**
-
 [![An image of @krahulsahu's Holopin badges, which is a link to view their full Holopin
 profile](https://holopin.me/krahulsahu)](https://holopin.io/@krahulsahu)
 
-
-<img src="https://media.tenor.com/9UERneabKX8AAAAi/ff-logo.gif" alt="#" srcset="#">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-k-22839a1a1/" target="blank"><img align="center"
