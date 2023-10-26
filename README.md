@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">"Ctrl + Shift + Enroll: A CSE Freshman's Odyssey"</h3>
+<img src="https://media.tenor.com/9UERneabKX8AAAAi/ff-logo.gif" alt="#" srcset="#">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krahulsahu&label=Profile%20views&color=0e75b6&style=flat"
         alt="krahulsahu" /> </p>
@@ -11,7 +13,7 @@
             src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Java, React**
-<img src="https://media.tenor.com/9UERneabKX8AAAAi/ff-logo.gif" alt="#" srcset="#">
+
 
 - 👨‍💻 All of my projects are available at my Portfolio :-
 [https://krahulsahu.github.io/MyPortfolio/](https://krahulsahu.github.io/MyPortfolio/)
