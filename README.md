@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">"Ctrl + Shift + Enroll: A CSE Freshman's Odyssey"</h3>
-<img src="https://media.tenor.com/9UERneabKX8AAAAi/ff-logo.gif" alt="#" srcset="#">
+<img src="https://media.tenor.com/9UERneabKX8AAAAi/ff-logo.gif" alt="#" srcset="#" style="display: block; margin: 0 auto;>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krahulsahu&label=Profile%20views&color=0e75b6&style=flat"
